@@ -4,4 +4,4 @@ python:
 install:
 - pip install requests
 script:
-- python3 testPeliculapro.py
+- python testPeliculapro.py
